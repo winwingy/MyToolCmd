@@ -1,0 +1,1 @@
+netsh interface ip set address name ="本地连接" source= static 10.92.183.138 255.255.255.0
